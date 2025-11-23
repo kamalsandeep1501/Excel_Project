@@ -72,7 +72,7 @@ This project is open-source. Feel free to use, modify, and distribute it, but pl
 
 ---
 
-## 💡 Tips & Next Steps
+## 💡Next Steps
 
 - Consider adding more advanced Excel features like **Power Query** or **Power Pivot** if you want to handle larger or more complex datasets.  
 - You could also build a **dashboard in Power BI** in the future for better interactivity.  
@@ -80,5 +80,3 @@ This project is open-source. Feel free to use, modify, and distribute it, but pl
 
 ---
 
-If you like, I can generate a **README with more detail** (e.g., data schema, sample data, formulas used). Do you want me to do that?
-::contentReference[oaicite:0]{index=0}
