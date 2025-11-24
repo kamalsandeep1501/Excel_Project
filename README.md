@@ -72,13 +72,6 @@ GitHub: [kamalsandeep1501](https://github.com/kamalsandeep1501)
 
 ---
 
-## 📄 License
-
-This project is open-source.  
-Feel free to use, modify, and distribute it—just give proper credit.
-
----
-
 ## 💡 Next Steps
 
 - Add advanced Excel features like **Power Query** or **Power Pivot**  
@@ -91,6 +84,4 @@ Feel free to use, modify, and distribute it—just give proper credit.
 
 You can clone this project using the following command:
 
-```bash
 git clone[Excel_Project] (https://github.com/kamalsandeep1501/Excel_Project.git)
-```
