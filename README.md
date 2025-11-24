@@ -14,7 +14,7 @@ Here is a preview of the main dashboard from this project:
 
 ## 📂 Project Structure
 
-- `Excel_Project.xlsx` — The Excel workbook containing the dashboard, data, charts, and calculations.  
+- `Excel_Project.xlsx` — The Excel workbook containing the dashboard, data, charts, and calculations.
 
 ---
 
@@ -27,8 +27,7 @@ This Excel dashboard project is designed to:
 - Track and display key metrics clearly  
 - Help users make data-driven decisions  
 
-Key features included:
-
+### Key features included:
 1. **KPI Tiles** — Highlight important business metrics at a glance  
 2. **Trend Charts** — Line charts to show how metrics evolve over time  
 3. **Category Breakdown** — Pie/bar charts to break down performance by category  
@@ -38,15 +37,22 @@ Key features included:
 
 ## ⚙️ How to Use
 
-1. **Open the Workbook**: Launch `Excel_Project.xlsx` in Microsoft Excel (preferably a modern version that supports slicers and dynamic charts).  
-2. **Enable Content**: If Excel prompts you to enable content, click **Enable Editing** / **Enable Content** so that macros / pivot tables (if any) work properly.  
-3. **Explore the Dashboard**:
-   - Use slicers / filters to change views.  
-   - Navigate between different sheets (e.g., Dashboard, Data, Raw Data).  
-4. **Update the Data**:
-   - Go to the Data sheet and input or paste new data.  
-   - Refresh pivot tables or charts (if you have pivot-based visuals) to reflect changes.  
-5. **Save Your Changes**: After updating data or visuals, save the workbook. You can also export charts or dashboards as images.
+1. **Open the Workbook**  
+   Launch `Excel_Project.xlsx` in Microsoft Excel (preferably a modern version that supports slicers and dynamic charts).
+
+2. **Enable Content**  
+   If Excel prompts for permissions, click **Enable Editing** / **Enable Content** so that macros or pivot tables (if any) work properly.
+
+3. **Explore the Dashboard**  
+   - Use slicers / filters to change views  
+   - Navigate between sheets (Dashboard, Data, Raw Data)
+
+4. **Update the Data**  
+   - Go to the Data sheet and input or paste new data  
+   - Refresh pivot tables or charts to update visuals  
+
+5. **Save Your Changes**  
+   Export charts or dashboards as images if needed.
 
 ---
 
@@ -55,28 +61,36 @@ Key features included:
 - Business performance tracking (sales, operations, marketing)  
 - Monthly / quarterly reporting  
 - Data analysis for small teams  
-- Educational / academic project to learn Excel dashboarding  
+- Educational / academic project to practice Excel dashboard creation  
 
 ---
 
 ## 👤 Author
 
 **Kamal Sandeep**  
-GitHub: [kamalsandeep1501](https://github.com/kamalsandeep1501)  
+GitHub: [kamalsandeep1501](https://github.com/kamalsandeep1501)
 
 ---
 
 ## 📄 License
 
-This project is open-source. Feel free to use, modify, and distribute it, but please give credit.
+This project is open-source.  
+Feel free to use, modify, and distribute it—just give proper credit.
 
 ---
 
-## 💡Next Steps
+## 💡 Next Steps
 
-- Consider adding more advanced Excel features like **Power Query** or **Power Pivot** if you want to handle larger or more complex datasets.  
-- You could also build a **dashboard in Power BI** in the future for better interactivity.  
-- Document data sources and assumptions somewhere in the workbook (a dedicated “Documentation” sheet is a good idea).
+- Add advanced Excel features like **Power Query** or **Power Pivot**  
+- Convert the dashboard into a **Power BI** version  
+- Add a documentation sheet explaining data sources & assumptions  
 
 ---
 
+## 📥 How to Clone This Repository
+
+You can clone this project using the following command:
+
+```bash
+git clone[Excel_Project] (https://github.com/kamalsandeep1501/Excel_Project.git)
+```
