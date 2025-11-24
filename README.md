@@ -84,4 +84,4 @@ GitHub: [kamalsandeep1501](https://github.com/kamalsandeep1501)
 
 You can clone this project using the following command:
 
-git clone[Excel_Project] (https://github.com/kamalsandeep1501/Excel_Project.git)
+git clone [Excel_Project](https://github.com/kamalsandeep1501/Excel_Project.git)
